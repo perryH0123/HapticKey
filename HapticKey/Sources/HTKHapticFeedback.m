@@ -122,7 +122,7 @@ static NSString * const kDefaultSystemSoundsName = @"InkSoundBecomeMouse.aif";
         case HTKHapticFeedbackTypeMedium:
             return 4;
         case HTKHapticFeedbackTypeStrong:
-            return 6;
+            return 8;
     }
     return 0;
 }
